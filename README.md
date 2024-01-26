@@ -14,8 +14,7 @@ Actviate the conda environment
 
 # Model
 
-The notebook defaults to the ```git-large-coco``` image captioning model for inference. There is though a wide range of different image captioning models in [Huggingface](https://huggingface.co/). Examples of such models are enlisted [here]
-(https://huggingface.co/models?other=image-captioning)
+The notebook defaults to the ```git-large-coco``` image captioning model for inference. There is though a wide range of different image captioning models in [Huggingface](https://huggingface.co/). Examples of such models are enlisted [here](https://huggingface.co/models?other=image-captioning)
 
 # Data
 
